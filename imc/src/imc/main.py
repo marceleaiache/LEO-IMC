@@ -4,7 +4,7 @@
 #def func(arg1, arg2):
 #    return arg1 + arg2
 from math import pow
-from imc.help_functions import imc
+from help_functions import imc
 
 nome = input("Digite seu nome: ")
 altura = float(input("Digite sua altura: "))
